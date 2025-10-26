@@ -1,0 +1,15 @@
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\bin\Debug\net9.0\HomeTask26102025.exe
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\bin\Debug\net9.0\HomeTask26102025.deps.json
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\bin\Debug\net9.0\HomeTask26102025.runtimeconfig.json
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\bin\Debug\net9.0\HomeTask26102025.dll
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\bin\Debug\net9.0\HomeTask26102025.pdb
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\obj\Debug\net9.0\HomeTask26102025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\obj\Debug\net9.0\HomeTask26102025.AssemblyInfoInputs.cache
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\obj\Debug\net9.0\HomeTask26102025.AssemblyInfo.cs
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\obj\Debug\net9.0\HomeTask26102025.csproj.CoreCompileInputs.cache
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\obj\Debug\net9.0\HomeTask26102025.sourcelink.json
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\obj\Debug\net9.0\HomeTask26102025.dll
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\obj\Debug\net9.0\refint\HomeTask26102025.dll
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\obj\Debug\net9.0\HomeTask26102025.pdb
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\obj\Debug\net9.0\HomeTask26102025.genruntimeconfig.cache
+C:\Users\Nihad\OneDrive\Desktop\HomeTask26102025\HomeTask26102025\obj\Debug\net9.0\ref\HomeTask26102025.dll

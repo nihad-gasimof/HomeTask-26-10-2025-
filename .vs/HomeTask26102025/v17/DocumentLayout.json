@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nihad\\OneDrive\\Desktop\\HomeTask26102025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78278619-03E1-403B-B7B1-6CD982EF03A5}|HomeTask26102025\\HomeTask26102025.csproj|c:\\users\\nihad\\onedrive\\desktop\\hometask26102025\\hometask26102025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78278619-03E1-403B-B7B1-6CD982EF03A5}|HomeTask26102025\\HomeTask26102025.csproj|solutionrelative:hometask26102025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78278619-03E1-403B-B7B1-6CD982EF03A5}|HomeTask26102025\\HomeTask26102025.csproj|c:\\users\\nihad\\onedrive\\desktop\\hometask26102025\\hometask26102025\\theater .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78278619-03E1-403B-B7B1-6CD982EF03A5}|HomeTask26102025\\HomeTask26102025.csproj|solutionrelative:hometask26102025\\theater .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78278619-03E1-403B-B7B1-6CD982EF03A5}|HomeTask26102025\\HomeTask26102025.csproj|c:\\users\\nihad\\onedrive\\desktop\\hometask26102025\\hometask26102025\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78278619-03E1-403B-B7B1-6CD982EF03A5}|HomeTask26102025\\HomeTask26102025.csproj|solutionrelative:hometask26102025\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78278619-03E1-403B-B7B1-6CD982EF03A5}|HomeTask26102025\\HomeTask26102025.csproj|c:\\users\\nihad\\onedrive\\desktop\\hometask26102025\\hometask26102025\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78278619-03E1-403B-B7B1-6CD982EF03A5}|HomeTask26102025\\HomeTask26102025.csproj|solutionrelative:hometask26102025\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78278619-03E1-403B-B7B1-6CD982EF03A5}|HomeTask26102025\\HomeTask26102025.csproj|c:\\users\\nihad\\onedrive\\desktop\\hometask26102025\\hometask26102025\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78278619-03E1-403B-B7B1-6CD982EF03A5}|HomeTask26102025\\HomeTask26102025.csproj|solutionrelative:hometask26102025\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Theater .cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\HomeTask26102025\\HomeTask26102025\\Theater .cs",
+              "RelativeDocumentMoniker": "HomeTask26102025\\Theater .cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\HomeTask26102025\\HomeTask26102025\\Theater .cs",
+              "RelativeToolTip": "HomeTask26102025\\Theater .cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwEwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:31:05.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\HomeTask26102025\\HomeTask26102025\\Genre.cs",
+              "RelativeDocumentMoniker": "HomeTask26102025\\Genre.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\HomeTask26102025\\HomeTask26102025\\Genre.cs",
+              "RelativeToolTip": "HomeTask26102025\\Genre.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:49:41.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\HomeTask26102025\\HomeTask26102025\\Movie.cs",
+              "RelativeDocumentMoniker": "HomeTask26102025\\Movie.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\HomeTask26102025\\HomeTask26102025\\Movie.cs",
+              "RelativeToolTip": "HomeTask26102025\\Movie.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:39:11.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\HomeTask26102025\\HomeTask26102025\\Base.cs",
+              "RelativeDocumentMoniker": "HomeTask26102025\\Base.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\HomeTask26102025\\HomeTask26102025\\Base.cs",
+              "RelativeToolTip": "HomeTask26102025\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:37:44.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\HomeTask26102025\\HomeTask26102025\\Program.cs",
+              "RelativeDocumentMoniker": "HomeTask26102025\\Program.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\HomeTask26102025\\HomeTask26102025\\Program.cs",
+              "RelativeToolTip": "HomeTask26102025\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAawDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:37:17.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
